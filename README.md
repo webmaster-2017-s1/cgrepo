@@ -1,1 +1,2 @@
-Tu cos kiedys sie pojawi
+Hello GitHub :D
+
