@@ -1,1 +1,2 @@
-Repozytorium z moimi kodami 
+Hello GitHub :D
+
