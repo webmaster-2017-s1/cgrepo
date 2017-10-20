@@ -1,0 +1,106 @@
+body{
+        
+
+    background-color: pink;
+    font: normal normal 12pt/1.3em Arial, Tahoma, Sans-Serif; 
+    
+}
+/*
+    font-family: Arial, Tahoma, Sans-Serif ;
+    font-size: 12pt;
+    background-color: pink;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.3em;
+*/
+
+
+h1{
+    font-size: 300%;
+
+}
+
+
+h2{
+
+    font-size: 250%;
+
+}
+
+
+p{
+
+    font-size: 14pt;
+    line-height: 1.5em;
+}
+
+.czerwony{
+    color: #FE000D
+
+}
+
+
+.pogrubiony{
+
+    font-weight: bold;
+
+}
+
+
+.wyrozniony{
+
+    color: ;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
+.pochylony{
+
+    font-style: italic;
+}
+
+.wyrozniony{
+
+    color: #FE000D;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+.pierwszy{
+    
+    color: green;
+
+}
+
+img{
+    
+    float: right;
+    
+}
+
+
+p.srodek{
+    clear: both;
+    text-align: center;
+}
+
+
+
+.first{
+    
+    border: 2px solid;   
+    border-radius: 50px;  
+    border-color: green;
+    width: 50px;
+    height: 50px;
+ 
+}
+
+
+
+
