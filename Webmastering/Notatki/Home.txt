@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-12T12:13:02+01:00
+
+====== jQuery ======
+Created piątek 12 styczeń 2018
+
+()=>{;}
+
+$("selektor").akcja(function(){
+  dzialania;
+});
+
+function(){;}
+
+W jQuery pierwszym sposobem selekcji jest selekcja identyfikatorem
+
+
+===== Dołączenie jQuery do strony =====
+
+
+
+ <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="../js/jquery.js"></script>
+</head> 
+
+===== Metody =====
+.hide();
+.show();
+.toggle();
