@@ -18,7 +18,11 @@ Spójność danych
 ===== Relacyjna baza danych =====
 
 Składa się z wielu tabel połaczonych relacjami
+* **klucz głowny(ang. primary key) –** pole, którego wartość jest unikalna w obrębie tabeli tzn. że klucz głowny jednoznacznie identyfikuje rekord w tabeli
+* **klucz obcy(ang. secondary key, REFERENCES table_name)-** klucz obcy pobiera wartości z kluacza głównego i łaczyc tabele zależne z tabelą główną
 
+===== TYPY relacji =====
+relacja jeden-do-wielu
 
 ===== Język SQL – strukturalny język zapytań stosowany w bazach danych =====
 
