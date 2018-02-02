@@ -28,14 +28,14 @@ relacja jeden-do-wielu
 
 ===== Programy =====
 Microsoft Access(.accdb)
-[[LibreOffice]] Base(.odb)
+LibreOffice Base(.odb)
 SQLiteStudio(.db, .sqlite)
 
 
 ===== Systemy/Silniki baz danych =====
-[[MySQL]]
-[[MariaDB]]
-[[PostgreSQL]]
+MySQL
+MariaDB
+PostgreSQL
 Oracle
 SQLite
 

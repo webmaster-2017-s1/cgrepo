@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-02T12:15:52+01:00
+
+====== Klient-Serwer ======
+Created piątek 02 luty 2018
+
+===== Serwer – „komputer" udostępniający zasoby =====
+Jakie zasoby można udostępniać?
+Udostępnia USŁUGI (ang. services, lista [[/etc/services]])
+
+1. DNS – Domain Name System, port 53, zamiana nazw hostów na adresy IP, polecenie **ping**
+2. HTTP–  [[HyperText]] Transfer Protocol, komunikacja w zakresie stron WWW, port 80
+3. FTP– File Transfer Protocol, komunikacja w zakresie stron WWW port 20,21
+4. SSH– Secure shell, port 22
+
+**Klient– **„komputer" korzystający z usług udostępnianych przez serwer, np. przeglądarka WWW albo klient chat
+
+**Protokół–** „język" porozumiewania się klienta z serwerem, protokoły definiowane są w dokumentach RFC
+
+Domyślny nazwa serwera[[:port]]
+localhost:8000 
+127.0.0.1:8000
+Domyślny zasób: index.html index.php, index
+
+
+**URI => URL**
+http://lo1.sandomierz.pl/szukaj?words=parnas&search=
+
+http:// – protokół
+lo1.sandomierz.pl – (pełnodomenowa) nazwa serwera
+[[/szukaj]] – zasób na serwerze 
+? – poczatek listy parametrów
+[[http://lo1.sandomierz.pl/szukaj?words=parnas&search|words=parnas]] – parametr w formacie nazwa = wartość
+& – znak służący rozdzielaniu parametrów
+search =
+
+https://=  HTTP + SSL
