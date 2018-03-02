@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-02T12:11:09+01:00
+
+====== Bootstrap ======
+Created piątek 02 marzec 2018
+
+Twórcy Bootstrapa podzielili rozdzielczości urządzeń na 5 grup.
+
+===== Rozdzielczości =====
+* auto
+* sm – small
+* md – medium
+* lg – large
+* xl – extra large
+
+===== Spacing =====
+m – margines
+p – dopełnienia
